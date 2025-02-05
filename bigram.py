@@ -2,7 +2,6 @@ import torch
 import torch.nn as nn
 from torch.nn import functional as F
 import matplotlib.pyplot as plt
-from metrics import evaluate_model
 
 # Hyperparameters
 batch_size = 32
