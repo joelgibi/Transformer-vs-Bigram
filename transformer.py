@@ -1,7 +1,6 @@
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
-from metrics import evaluate_model
 import matplotlib.pyplot as plt
 
 #hyperparameters
